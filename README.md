@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lasharela
 - 👀 I’m interested in Startups
-- 🌱 I’m currently learning Graphql
+- 🌱 I’m currently learning Rust Language
 - 💞️ I’m looking to collaborate on interesting projects
 
 
